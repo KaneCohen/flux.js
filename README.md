@@ -8,6 +8,8 @@ wouldn't be blindingly bright at 11PM.
 
 View live [example here](https://kanecohen.github.io/fluxjs).
 
+![GIF demo](https://cloud.githubusercontent.com/assets/578455/25860055/02417464-34e9-11e7-9cee-8be73fb1be2f.gif)
+
 ## How to use
 
 Install library either via npm `npm install flux.js` and load it via `var Flux = require('flux.js');`.  
