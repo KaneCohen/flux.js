@@ -6,7 +6,7 @@ wouldn't be blindingly bright at 11PM.
 
 ## Example
 
-View live [example here](https://kanecohen.github.io/fluxjs).
+View live [example here](https://kanecohen.github.io/fluxjs/).
 
 ![GIF demo](https://cloud.githubusercontent.com/assets/578455/25860055/02417464-34e9-11e7-9cee-8be73fb1be2f.gif)
 
